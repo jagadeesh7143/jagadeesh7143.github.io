@@ -9,7 +9,7 @@
 
 I’m a full stack developer with more than seven years of work in Java and web applications.  
 I build reliable systems that connect clear backend logic with fast, easy-to-use front-end interfaces.  
-My focus is on **Spring Boot**, **ReactJS**, and **cloud deployment** using **AWS** and **Docker**.  
+My focus is on Spring Boot, ReactJS, and cloud deployment using AWS and Docker.  
 I enjoy improving performance, reducing manual steps, and writing code that is clean and simple to maintain.  
 Outside of code, I read about new tools, small automation ideas, and how teams can build software with less complexity.
 
@@ -17,7 +17,7 @@ Outside of code, I read about new tools, small automation ideas, and how teams c
 
 ## ⚙️ Tech Stack
 
-**Languages:** Java (11–17), JavaScript, TypeScript, SQL, HTML5, CSS3  
+**Languages:** Java (11-17), JavaScript, TypeScript, SQL, HTML5, CSS3  
 **Frameworks:** Spring Boot, Spring MVC, Hibernate, ReactJS, JPA, Bootstrap  
 **Web & API:** REST APIs, GraphQL, Swagger, Postman  
 **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
@@ -31,10 +31,10 @@ Outside of code, I read about new tools, small automation ideas, and how teams c
 ## 💼 Work Experience
 
 ### 🏢 L&T Technology Services — *Software Engineer*  
-📍 Dearborn, MI | *Jun 2024 – Present*  
-- Building enterprise web apps using **Java 17**, **Spring Boot**, and **ReactJS**.  
-- Writing REST APIs with **Spring Security** and **JWT** for secure access.  
-- Using **Docker** and **Jenkins** for builds and releases.  
+📍 Dearborn, MI | *Jun 2024 - Present*  
+- Building enterprise web apps using Java 17, Spring Boot, and ReactJS.  
+- Writing REST APIs with Spring Security and JWT for secure access.  
+- Using Docker and Jenkins for builds and releases.  
 - Supporting sprints, reviews, and testing to keep releases stable.  
 
 **Stack:** Java 17, Spring Boot, ReactJS, MySQL, Docker, Jenkins, GitHub, Postman  
@@ -42,41 +42,41 @@ Outside of code, I read about new tools, small automation ideas, and how teams c
 ---
 
 ### 🏢 Abbott — *Software Engineer*  
-📍 Abbott Park, IL | *Aug 2022 – Jun 2024*  
+📍 Abbott Park, IL | *Aug 2022 - Jun 2024*  
 - Created microservices for financial data and reporting systems.  
 - Linked backend systems with third-party APIs for identity checks.  
-- Improved response time with **Redis caching** and query tuning.  
-- Released updates through **AWS ECS** and **Lambda** pipelines.  
+- Improved response time with Redis caching and query tuning.  
+- Released updates through AWS ECS and Lambda pipelines.  
 
 **Stack:** Java 17, Spring Boot, ReactJS, AWS, Redis, Jenkins, Selenium, Postman  
 
 ---
 
 ### 🏢 Rockwell Automation — *Software Engineer*  
-📍 Milwaukee, WI | *Dec 2020 – Jul 2022*  
-- Shifted older modules into **Spring Boot** microservices.  
-- Built small **ReactJS** dashboards for real-time data.  
-- Packaged services in **Docker** and hosted on **AWS ECS**.  
+📍 Milwaukee, WI | *Dec 2020 - Jul 2022*  
+- Shifted older modules into Spring Boot microservices.  
+- Built small ReactJS dashboards for real-time data.  
+- Packaged services in Docker and hosted on AWS ECS.  
 
 **Stack:** Java 17, Spring Boot, ReactJS, PostgreSQL, Docker, Jenkins, AWS  
 
 ---
 
 ### 🏢 TCS — *Software Engineer*  
-📍 Hyderabad, India | *Aug 2019 – Nov 2020*  
+📍 Hyderabad, India | *Aug 2019 - Nov 2020*  
 - Developed backend and UI modules for internal tools.  
 - Focused on input validation, database speed, and clean code.  
-- Wrote unit tests and managed builds in **Jenkins**.  
+- Wrote unit tests and managed builds in Jenkins.  
 
 **Stack:** Java, Spring Boot, ReactJS, MySQL, Jenkins, Git  
 
 ---
 
 ### 🏢 Harman International — *Junior Software Engineer*  
-📍 Bangalore, India | *Jul 2019 – Jun 2020*  
-- Wrote REST APIs and simple **React** components.  
+📍 Bangalore, India | *Jul 2019 - Jun 2020*  
+- Wrote REST APIs and simple React components.  
 - Helped move parts of the system into microservices.  
-- Tested endpoints with **Postman** and verified builds in QA.  
+- Tested endpoints with Postman and verified builds in QA.  
 
 **Stack:** Java, Spring Boot, ReactJS, MySQL, Jenkins, Docker  
 
@@ -84,8 +84,8 @@ Outside of code, I read about new tools, small automation ideas, and how teams c
 
 ## 🎓 Education
 
-🎓 **M.S. in Information Systems** – Central Michigan University, USA  
-🎓 **B.Tech in Information Technology** – Anurag Group of Institutions, India  
+🎓 **M.S. in Information Systems** - Central Michigan University, USA  
+🎓 **B.Tech in Information Technology** - Anurag Group of Institutions, India  
 
 ---
 

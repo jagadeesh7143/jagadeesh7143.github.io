@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Jagadeesh Reddy Mandapati**
 
-Software Engineer |Java Full Stack Developer | Cloud & Microservices Enthusiast  
+Software Engineer | Java Full Stack Developer | Cloud & Microservices Enthusiast  
 📍 Lansing, MI | 📧 [jagadeeshreddy.m61@gmail.com](mailto:jagadeeshreddy.m61@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/jagadeesh-reddy-mandapati-775487271/) | 💻 [GitHub](https://github.com/jagadeesh7143)
 
 ---
